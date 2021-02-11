@@ -17,8 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Video
 
-<video src="https://www.youtube.com/embed/TAGYblAY660" />
-
 <video width="320" height="240" controls>
   <source src="https://www.youtube.com/embed/TAGYblAY660" type="video/mp4">
 </video>
