@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Video
 
-[![catvsdog](https://img.youtube.com/vi/TAGYblAY660)](https://www.youtube.com/watch?v=TAGYblAY660)
+[![catvsdog](https://img.youtube.com/vi/TAGYblAY660/0.jpg)](https://www.youtube.com/watch?v=TAGYblAY660)
