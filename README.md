@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TAGYblAY660" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![catvsdog](https://img.youtube.com/vi/TAGYblAY660)](https://www.youtube.com/watch?v=TAGYblAY660)
